@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-08T08:12:35.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="43TfnUR3G7FFn1AV7LQk" version="12.2.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-08T08:15:00.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="VFBkcoOBShRQUl86o3lG" version="12.2.2" type="github" pages="1">
   <diagram id="dFV6c7_03_GZPrATwF19" name="Page-1">
     <mxGraphModel dx="2052" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -111,7 +111,7 @@
         <mxCell id="G0jVgzEL40vaOQWalnAc-19" value="(1) Check 3.3VDC" style="fontFamily=Verdana;" vertex="1" parent="G0jVgzEL40vaOQWalnAc-17">
           <mxGeometry x="40" y="220" width="140" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="G0jVgzEL40vaOQWalnAc-21" value="ADC" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;fontFamily=Verdana;exitX=0;exitY=0.171;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="G0jVgzEL40vaOQWalnAc-17" source="G0jVgzEL40vaOQWalnAc-67">
+        <mxCell id="G0jVgzEL40vaOQWalnAc-21" value="ADC" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;fontFamily=Verdana;exitX=-0.01;exitY=0.23;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="G0jVgzEL40vaOQWalnAc-17" source="G0jVgzEL40vaOQWalnAc-67">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="240.00000000000006" as="sourcePoint"/>
             <mxPoint x="180" y="240.00000000000006" as="targetPoint"/>
