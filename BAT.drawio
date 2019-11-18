@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-18T08:10:19.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="Zr-ZOzxwMewoY85LLC71" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-18T08:10:49.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="Xkli9wcrNNcUpNPZBDnz" version="12.2.6" type="github" pages="1">
   <diagram id="C29vsQtd6jZAs602P4Rz" name="Page-1">
     <mxGraphModel dx="805" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -75,6 +75,12 @@
         </mxCell>
         <mxCell id="2DimMKOM4YlCNLxA1_Jv-25" value="&lt;b&gt;Protection&lt;/b&gt;&lt;br&gt;BQ2973&lt;br&gt;OVP&lt;br&gt;UVP&lt;br&gt;OCC&lt;br&gt;CDO&lt;br&gt;Short-Circuit Detection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="190" width="110" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="2DimMKOM4YlCNLxA1_Jv-27" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#0000FF;jumpSize=6;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="210" as="sourcePoint"/>
+            <mxPoint x="520" y="209.5" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
