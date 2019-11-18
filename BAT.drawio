@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-18T08:10:49.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="Xkli9wcrNNcUpNPZBDnz" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-18T12:04:36.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="mcfW6DgAq6hN5RgHxukZ" version="12.2.6" type="github" pages="1">
   <diagram id="C29vsQtd6jZAs602P4Rz" name="Page-1">
-    <mxGraphModel dx="805" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="586" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -44,7 +44,7 @@
           <mxGeometry x="580" y="215" width="30" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="2DimMKOM4YlCNLxA1_Jv-14" value="Battery Pack" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="564" y="315" width="80" height="20" as="geometry"/>
+          <mxGeometry x="560" y="300" width="80" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="2DimMKOM4YlCNLxA1_Jv-18" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/general/Battery_100_128x128.png" vertex="1" parent="1">
           <mxGeometry x="560" y="210" width="70" height="80" as="geometry"/>
