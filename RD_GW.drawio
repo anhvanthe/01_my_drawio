@@ -1,1 +1,106 @@
-<mxfile host="www.draw.io" modified="2019-11-28T06:53:05.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" version="12.3.2" etag="7zusbAaacdhQiITCa7ym" type="github"><diagram id="tLzEr-kSLslaF7xKlCu6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-28T09:35:22.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="Uo3nfBY34sbyD2Vn_-Mg" version="12.3.2" type="github" pages="1">
+  <diagram id="tLzEr-kSLslaF7xKlCu6" name="Page-1">
+    <mxGraphModel dx="981" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="Byey5HjT2MP___LkyyM5-19" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="740" y="190" width="200" height="160" as="geometry"/>
+        </mxCell>
+        <mxCell id="Byey5HjT2MP___LkyyM5-1" value="MT7688&lt;br&gt;Module&lt;br&gt;Wifi on board" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="240" height="160" as="geometry"/>
+        </mxCell>
+        <mxCell id="Byey5HjT2MP___LkyyM5-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Byey5HjT2MP___LkyyM5-4" target="Byey5HjT2MP___LkyyM5-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Byey5HjT2MP___LkyyM5-4" value="Adapter 12V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="110" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="Byey5HjT2MP___LkyyM5-5" value="Buck 5V&lt;br&gt;NCP3170ADR2G" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="440" width="110" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="Byey5HjT2MP___LkyyM5-7" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="440" as="sourcePoint"/>
+            <mxPoint x="510" y="360" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Byey5HjT2MP___LkyyM5-8" value="Zigbee&lt;br&gt;EFR32MG21A010F1024IM32&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="200" width="170" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Byey5HjT2MP___LkyyM5-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="230" as="sourcePoint"/>
+            <mxPoint x="760" y="230" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Byey5HjT2MP___LkyyM5-12" value="UART" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="Byey5HjT2MP___LkyyM5-9">
+          <mxGeometry x="-0.1393" y="-1" relative="1" as="geometry">
+            <mxPoint x="-4.5" y="-1" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Byey5HjT2MP___LkyyM5-10" value="BLE&lt;br&gt;TLSR8253" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="270" width="170" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Byey5HjT2MP___LkyyM5-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="300" as="sourcePoint"/>
+            <mxPoint x="760" y="300" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Byey5HjT2MP___LkyyM5-13" value="UART" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="Byey5HjT2MP___LkyyM5-11">
+          <mxGeometry x="0.1464" relative="1" as="geometry">
+            <mxPoint x="-15.5" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Byey5HjT2MP___LkyyM5-14" value="LDO 3V3&lt;br&gt;NCP161" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="440" width="110" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="Byey5HjT2MP___LkyyM5-17" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="Byey5HjT2MP___LkyyM5-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="460" as="sourcePoint"/>
+            <mxPoint x="590" y="410" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Byey5HjT2MP___LkyyM5-18" value="" style="endArrow=classic;html=1;entryX=0.301;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Byey5HjT2MP___LkyyM5-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="440" as="sourcePoint"/>
+            <mxPoint x="800" y="360" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Byey5HjT2MP___LkyyM5-22" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="235" width="50" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="Byey5HjT2MP___LkyyM5-23" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="Byey5HjT2MP___LkyyM5-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="262.0000000000001" as="sourcePoint"/>
+            <mxPoint x="220" y="260" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Byey5HjT2MP___LkyyM5-24" value="Ethernet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="Byey5HjT2MP___LkyyM5-23">
+          <mxGeometry x="0.2666" y="1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Byey5HjT2MP___LkyyM5-27" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="306" as="sourcePoint"/>
+            <mxPoint x="280" y="304.2702702702703" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Byey5HjT2MP___LkyyM5-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/fatcow/32x32/led.png;glass=0;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="285" width="50" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="Byey5HjT2MP___LkyyM5-30" value="Button" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;glass=0;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="335" width="50" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="Byey5HjT2MP___LkyyM5-33" value="" style="endArrow=classic;html=1;entryX=-0.01;entryY=0.935;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Byey5HjT2MP___LkyyM5-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="350" as="sourcePoint"/>
+            <mxPoint x="330" y="300" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
