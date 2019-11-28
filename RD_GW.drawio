@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-28T10:19:39.747Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="WQMgdqyhMM1uncB_soYG" version="12.3.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-28T10:38:00.696Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="RDOZoqG07l7YFJP_vATi" version="12.3.2" type="github" pages="1">
   <diagram id="tLzEr-kSLslaF7xKlCu6" name="Page-1">
     <mxGraphModel dx="981" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -86,6 +86,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="306" as="sourcePoint"/>
             <mxPoint x="280" y="304.2702702702703" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Byey5HjT2MP___LkyyM5-36" value="5x LEDs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="Byey5HjT2MP___LkyyM5-27">
+          <mxGeometry x="0.4521" relative="1" as="geometry">
+            <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="Byey5HjT2MP___LkyyM5-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/fatcow/32x32/led.png;glass=0;dashed=1;strokeWidth=2;" vertex="1" parent="1">
