@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-29T04:01:01.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="zZRrF-13xmbFS2WDcSjr" version="12.3.3" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-11-29T06:00:47.795Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="WwIJvdb_fdmnQnZauZ4t" version="12.3.3" type="github" pages="2">
   <diagram id="o-UFxtaxaCjPeBru45kK" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -309,6 +309,21 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="750" y="360" as="sourcePoint"/>
             <mxPoint x="680" y="360" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpkLmV2G4_DB4CmLCecQ-3" value="Light sensor&lt;br&gt;OPT3001" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="k1F_AZtliHzAjeCPoht2-1">
+          <mxGeometry x="240" y="200" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="fpkLmV2G4_DB4CmLCecQ-5" value="" style="endArrow=classic;html=1;" edge="1" parent="k1F_AZtliHzAjeCPoht2-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="240" as="sourcePoint"/>
+            <mxPoint x="600" y="280" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpkLmV2G4_DB4CmLCecQ-6" value="" style="endArrow=none;html=1;" edge="1" parent="k1F_AZtliHzAjeCPoht2-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="240" as="sourcePoint"/>
+            <mxPoint x="600" y="240" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
       </root>
