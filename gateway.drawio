@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-29T06:00:47.795Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="WwIJvdb_fdmnQnZauZ4t" version="12.3.3" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-12-07T03:07:15.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="gIoD-Nofb-11YtNk-s2N" version="12.3.8" type="github" pages="1">
   <diagram id="o-UFxtaxaCjPeBru45kK" name="Page-1">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1040" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -250,80 +250,6 @@
         <mxCell id="goUKhaGWuWhzBPMG2-UU-11" value="I2C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" parent="goUKhaGWuWhzBPMG2-UU-9" vertex="1" connectable="0">
           <mxGeometry x="-0.5348" relative="1" as="geometry">
             <mxPoint y="-26.5" as="offset"/>
-          </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="rbepWuOHAbRI03DdED5-" name="Page-2">
-    <mxGraphModel dx="1185" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
-      <root>
-        <mxCell id="k1F_AZtliHzAjeCPoht2-0"/>
-        <mxCell id="k1F_AZtliHzAjeCPoht2-1" parent="k1F_AZtliHzAjeCPoht2-0"/>
-        <mxCell id="8bLhjHWIXM1cuOXm26JV-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k1F_AZtliHzAjeCPoht2-1">
-          <mxGeometry x="750" y="280" width="50" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="k1F_AZtliHzAjeCPoht2-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k1F_AZtliHzAjeCPoht2-1">
-          <mxGeometry x="560" y="430" width="60" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="k1F_AZtliHzAjeCPoht2-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k1F_AZtliHzAjeCPoht2-1" source="k1F_AZtliHzAjeCPoht2-3" target="k1F_AZtliHzAjeCPoht2-5">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="k1F_AZtliHzAjeCPoht2-3" value="PIR&lt;br&gt;Sensor" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="k1F_AZtliHzAjeCPoht2-1">
-          <mxGeometry x="240" y="300" width="80" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="k1F_AZtliHzAjeCPoht2-4" value="BLE&lt;br&gt;TLSR8253" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k1F_AZtliHzAjeCPoht2-1">
-          <mxGeometry x="480" y="280" width="200" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="k1F_AZtliHzAjeCPoht2-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k1F_AZtliHzAjeCPoht2-1" source="k1F_AZtliHzAjeCPoht2-5" target="k1F_AZtliHzAjeCPoht2-4">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="k1F_AZtliHzAjeCPoht2-5" value="AFE" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="k1F_AZtliHzAjeCPoht2-1">
-          <mxGeometry x="360" y="300" width="60" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="k1F_AZtliHzAjeCPoht2-10" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/general/Battery_100_128x128.png" vertex="1" parent="k1F_AZtliHzAjeCPoht2-1">
-          <mxGeometry x="560" y="440" width="30" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="k1F_AZtliHzAjeCPoht2-11" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/general/Battery_75_128x128.png" vertex="1" parent="k1F_AZtliHzAjeCPoht2-1">
-          <mxGeometry x="590" y="440" width="20" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="k1F_AZtliHzAjeCPoht2-13" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="k1F_AZtliHzAjeCPoht2-1" source="k1F_AZtliHzAjeCPoht2-12">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="450" as="sourcePoint"/>
-            <mxPoint x="590" y="400" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8bLhjHWIXM1cuOXm26JV-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;" edge="1" parent="k1F_AZtliHzAjeCPoht2-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="310" as="sourcePoint"/>
-            <mxPoint x="750" y="310" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8bLhjHWIXM1cuOXm26JV-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/fatcow/32x32/led.png;fontFamily=Tahoma;" vertex="1" parent="k1F_AZtliHzAjeCPoht2-1">
-          <mxGeometry x="760" y="290" width="32" height="32" as="geometry"/>
-        </mxCell>
-        <mxCell id="fpkLmV2G4_DB4CmLCecQ-1" value="Button" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;fontFamily=Tahoma;" vertex="1" parent="k1F_AZtliHzAjeCPoht2-1">
-          <mxGeometry x="750" y="340" width="60" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="fpkLmV2G4_DB4CmLCecQ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;" edge="1" parent="k1F_AZtliHzAjeCPoht2-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="360" as="sourcePoint"/>
-            <mxPoint x="680" y="360" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fpkLmV2G4_DB4CmLCecQ-3" value="Light sensor&lt;br&gt;OPT3001" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="k1F_AZtliHzAjeCPoht2-1">
-          <mxGeometry x="240" y="200" width="80" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="fpkLmV2G4_DB4CmLCecQ-5" value="" style="endArrow=classic;html=1;" edge="1" parent="k1F_AZtliHzAjeCPoht2-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="240" as="sourcePoint"/>
-            <mxPoint x="600" y="280" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fpkLmV2G4_DB4CmLCecQ-6" value="" style="endArrow=none;html=1;" edge="1" parent="k1F_AZtliHzAjeCPoht2-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="240" as="sourcePoint"/>
-            <mxPoint x="600" y="240" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
       </root>
