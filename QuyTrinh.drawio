@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-06T10:12:06.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="j47d0rhMRGFzBFiPTufp" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-06T10:57:56.551Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="0ZUFzCiPyF0GO0JKXO3A" version="12.4.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1224" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1733" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -82,14 +82,14 @@
             <mxPoint x="2200" y="160" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WOA4JrM5TvBIJfNwkSzf-92" value="BGĐ/Leader" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="35" y="100" width="90" height="20" as="geometry"/>
+        <mxCell id="WOA4JrM5TvBIJfNwkSzf-92" value="BGĐ/Leader" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Verdana;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="25" y="100" width="110" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="WOA4JrM5TvBIJfNwkSzf-93" value="Team HW" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="35" y="300" width="70" height="20" as="geometry"/>
+        <mxCell id="WOA4JrM5TvBIJfNwkSzf-93" value="Team HW" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Verdana;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="25" y="300" width="90" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="WOA4JrM5TvBIJfNwkSzf-94" value="Team cơ khí" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="25" y="540" width="90" height="20" as="geometry"/>
+        <mxCell id="WOA4JrM5TvBIJfNwkSzf-94" value="Team cơ khí" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Verdana;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="15" y="540" width="110" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="WOA4JrM5TvBIJfNwkSzf-95" value="" style="endArrow=classic;html=1;fontFamily=Verdana;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
