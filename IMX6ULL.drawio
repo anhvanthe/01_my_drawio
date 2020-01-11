@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-11T03:29:53.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="hljM2l9MmjhDR04ZAm6u" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-11T07:10:48.378Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="6fCNEg_XKRwxCsiN77J1" version="12.5.1" type="github">
   <diagram id="_aSgYbk2bZONPqhFsnD0" name="Page-1">
-    <mxGraphModel dx="1486" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -151,6 +151,9 @@
         </mxCell>
         <mxCell id="kT1W8ZroTgqItNZML-wT-59" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;IMX BB&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Verdana;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="90" y="90" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="8EHniBHwMP9ALQmY1_-P-1" value="Clock" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000FF;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Verdana;fontSize=13;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="170" y="305" width="60" height="35" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
