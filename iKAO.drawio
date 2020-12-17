@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T10:40:52.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.0.4" etag="6zEzaI5cBN3LDyRDSbXO" type="github"><diagram id="CCqrdpG0SiiGdcGF-wu9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-17T10:47:59.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="HULK7eThyyEikpbIyn5U" version="14.0.4" type="github">
+  <diagram id="CCqrdpG0SiiGdcGF-wu9" name="Page-1">
+    <mxGraphModel dx="648" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NOO96rWMDdzXLngENQwW-1" value="BLE&lt;br&gt;nRF52832" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="120" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="NOO96rWMDdzXLngENQwW-2" value="RFID&lt;br&gt;TMS3705D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="280" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NOO96rWMDdzXLngENQwW-3" value="LCD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
