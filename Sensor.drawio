@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T17:48:59.937Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="IKDBPohFMuors4W0JBKC" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-22T17:52:24.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="VEeO_MyQ0jsSnhVzd97V" version="14.1.1" type="github">
   <diagram id="fQU-9Sbg42S6nCLMiV9t" name="Page-1">
     <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
         <mxCell id="DoYQl6slMKIn1db2F5ta-25" value="Architecture 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="310" y="120" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DoYQl6slMKIn1db2F5ta-26" value="&lt;span style=&quot;font-family: helvetica; font-size: 15px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Architecture 1&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="DoYQl6slMKIn1db2F5ta-26" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 15px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Architecture 2&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="440" y="570" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
