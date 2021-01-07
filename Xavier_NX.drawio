@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T02:49:53.595Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="TQlVocP8HJBcSykx7t3-" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-07T02:49:59.696Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Kzo5u4ZtYoVgtYoG4Fr5" version="14.1.8" type="github">
   <diagram id="5ykc17lWJs92PCNrkv7X" name="Page-1">
     <mxGraphModel dx="1358" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -181,7 +181,7 @@
             <mxPoint x="560" y="659.5400000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="boy43e8Oab7jLuV-4bjO-1" value="&lt;span style=&quot;font-size: 14px&quot;&gt;EMI Filter&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="boy43e8Oab7jLuV-4bjO-1" value="&lt;span style=&quot;font-size: 14px&quot;&gt;EMI Filter&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="180" y="270" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="boy43e8Oab7jLuV-4bjO-3" value="" style="endArrow=classic;html=1;strokeWidth=2;" edge="1" parent="1">
