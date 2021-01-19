@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-19T04:46:03.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="MnW9jYaj9w7UULIJpoD9" version="14.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-19T04:46:11.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="u2LE0mQ6cAtucsN8beMR" version="14.2.4" type="github" pages="3">
   <diagram id="m4r_sEA798e7vU3h49Gg" name="System">
     <mxGraphModel dx="1358" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -159,7 +159,7 @@
           <mxGeometry x="565.5" y="200" width="19" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XuO_jmkh6VdgQPBUojjF-7" value="SENSORs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=18;" vertex="1" parent="XuO_jmkh6VdgQPBUojjF-1">
-          <mxGeometry x="280" y="200" width="40" height="20" as="geometry" />
+          <mxGeometry x="295" y="200" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XuO_jmkh6VdgQPBUojjF-8" value="" style="image;html=1;image=img/lib/clip_art/general/Battery_allstates_128x128.png;fontFamily=Tahoma;fontSize=18;" vertex="1" parent="XuO_jmkh6VdgQPBUojjF-1">
           <mxGeometry x="555" y="340" width="40" height="56" as="geometry" />
